@@ -1,6 +1,6 @@
 <h1>Scatterplot Graph</h1>
 
-Link to the page:
+Link to the page: https://redbillis.github.io/Choropleth-Map-FCC/
 
 Visualize Data with a Choropleth Map
 
